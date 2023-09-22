@@ -10,7 +10,7 @@ This script is fully compatible with all shells and partially compatible with ID
 
 ## Installation
 
-Note: *You can play the game directly online without installing python using this [link]() or follow the instructions below.*
+Note: *You can play the game directly online without installing python using this [link](https://replit.com/@sinux18/blackjack-game?v=1) or follow the instructions below.*
 
 To run this Blackjack CLI script, ensure you have Python 3.x installed on your system. You can download it [here](https://www.python.org/downloads/).
 
