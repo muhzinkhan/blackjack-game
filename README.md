@@ -10,6 +10,8 @@ This script is fully compatible with all shells and partially compatible with ID
 
 ## Installation
 
+Note: *You can play the game directly online without installing python using this [link]() or follow the instructions below.*
+
 To run this Blackjack CLI script, ensure you have Python 3.x installed on your system. You can download it [here](https://www.python.org/downloads/).
 
 1. Clone this repository to your local machine:
